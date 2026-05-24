@@ -19,7 +19,7 @@
 | CounterStrikeSharp | 1.0.367+ |
 \ RAY TRACE\   https://github.com/FUNPLAY-pro-CS2/Ray-Trace
 | Metamod:Source | 2.0+ |
-| [cs2-demo-parser] | Latest | https://github.com/LaihoE/demoparser
+\ [cs2-demo-parser https://github.com/LaihoE/demoparser
 | [BotLocker](https://github.com/XBribo/CS2-Bot-Locker) | 0.3.0+ (optional, for weapon lock) |
 
 ### Recommended Companion Plugins
