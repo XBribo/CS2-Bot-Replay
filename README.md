@@ -1,4 +1,4 @@
-# DemoReplayFusion
+# CS2-Bot-Replay
 
 > Parse CS2 demo files and replay them on a local server, making bots follow real match trajectories.
 
